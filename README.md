@@ -36,7 +36,7 @@ matplotlib >= 3.7
 seaborn >= 0.12
 plotly >= 5.15
 
-Installation
+## Installation
 Clone the repository:
 git clone https://github.com/yourusername/covid19-analysis.git
 cd covid19-analysis
