@@ -51,4 +51,3 @@ A Python-based data analysis project tracking COVID-19 cases, deaths, and vaccin
 
 ---
 
-*Submitted for: [Your Course Name] - [Your Institution] - [Date]*
